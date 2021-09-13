@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    font-size: 40px;
+    font-weight: 300;
+    font-style:italic;
+    text-align: center;
+    background-color: purple;
+}
+
+/*This is a single line comment*/
+
+/*This comment 
+  takes up 
+  multiple wors*/
+
+p {
+    color: red;
+    color: orange;
+}
+#second-paragraph {
+    color: purple;
+}
+
+.cat-info,.last-paragraph {
+    color: pink;
+}
